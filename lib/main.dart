@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:notes_app/pages/home_page.dart';
 import 'package:notes_app/provider/notes_provider.dart';
 import 'package:provider/provider.dart';
-
 void main() {
   runApp(const MyApp());
 }
